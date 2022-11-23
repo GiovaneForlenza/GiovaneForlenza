@@ -145,12 +145,11 @@
   <br/>
   <p align="left">   
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaneforlenza&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="giovaneforlenza" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaneforlenza&langs_count=4&show_icons=true&locale=en&layout=compact&theme=algolia" alt="giovaneforlenza" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneforlenza&theme=dracula&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
  
   
   
