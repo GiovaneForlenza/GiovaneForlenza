@@ -130,6 +130,63 @@
   </a>
 </p>
 
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <img width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" />
+    <img width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" />
+  </kbd>
+  <p/>
+<!--
+## Technologies 
+  
+```mermaid
+flowchart 
+f1[HTML]
+f2[Css]
+f3[javaScpit]
+fw1((ReactJs))
+fw2((NextJs))
+fw3((Bootstrap))
+fw5((Scss))
+fw4((Redux))
+b1{NodeJs}
+b2{RestAPIs}
+b3{MySQL}
+ subgraph  BackEnd
+b1
+b2
+b3
+ end  
+ subgraph Framworks 
+fw1
+fw2
+fw3
+fw4
+fw5
+ end
+  subgraph  FrontEnd 
+ f1
+ f2
+ f3
+ end  
+ f1 --o f2
+ f1 --o f3
+ f2 --o fw3
+ f2 --o fw5
+ f3 --o fw1
+ f3 --o fw2
+ fw1 --o fw4
+ fw2 --o b1
+ b1 --o b2
+ ```
+-->
+
 ### My Projects ✨:
   
 <a href="https://github.com/GiovaneForlenza/recipe-book">
