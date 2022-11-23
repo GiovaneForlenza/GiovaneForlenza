@@ -1,3 +1,7 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <h1 align="center">Hi 👋, my name is Giovane Forlenza</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
@@ -166,5 +170,6 @@ mostly a self-taught web dev**
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-  [![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
-
+  
+  
+  
