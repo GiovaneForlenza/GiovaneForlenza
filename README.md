@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on [My Recipe Book](https://recepie-book.netlify.app)
 - 👨‍💻 All of my projects are available at
 [https://react-project-portfolios.netlify.app](https://react-project-portfolios.netlify.app)
-- 📫 How to reach me **giovane.franciscoforl@gmail.com** - ⚡ Fun fact **I am
-mostly a self-taught web dev**
+- 📫 How to reach me **giovane.franciscoforl@gmail.com** 
+- ⚡ Fun fact **I graduated from Conestoga College in Canada, with a Computer Programmer degree**
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
