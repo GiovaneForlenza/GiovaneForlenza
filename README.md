@@ -31,7 +31,10 @@ mostly a self-taught web dev**
   /></a>
 </p>
 
-<h3 align="left">FrontEnd Technologies I know:</h3>
+
+## 🛠️ My Skills
+
+### 👉 FrontEnd Technologies
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -149,3 +152,19 @@ mostly a self-taught web dev**
     />
   </a>
 </p>
+
+
+## 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="left">   
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaneforlenza&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="giovaneforlenza" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+  [![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+
