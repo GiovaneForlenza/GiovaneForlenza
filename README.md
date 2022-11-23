@@ -130,6 +130,12 @@
   </a>
 </p>
 
+### My Projects ✨:
+  
+<a href="https://github.com/GiovaneForlenza/recipe-book">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=recipe-book&theme=tokyonight" />
+</a>
+
 
 ## 📊 Github Stats
 
