@@ -1,7 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
 <h1 align="center">Hi 👋, my name is Giovane Forlenza</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
@@ -10,36 +6,10 @@
 [https://react-project-portfolios.netlify.app](https://react-project-portfolios.netlify.app)
 - 📫 How to reach me **giovane.franciscoforl@gmail.com** - ⚡ Fun fact **I am
 mostly a self-taught web dev**
-
-<h3 align="left">My social networks:</h3>
-<p align="left">
-  <a
-    href="https://codepen.io/https://codepen.io/giovanefrancisco"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="https://codepen.io/giovanefrancisco"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/giovane-francisco-forlenza-9b9979193/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/giovane-francisco-forlenza-9b9979193/"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
 
 ### 👨🏽‍💻 FrontEnd Technologies
 <p align="left">
