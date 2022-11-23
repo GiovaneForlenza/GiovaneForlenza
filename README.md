@@ -34,7 +34,7 @@ mostly a self-taught web dev**
 
 ## 🛠️ My Skills
 
-### 👉 FrontEnd Technologies
+### 👨🏽‍💻 FrontEnd Technologies
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
