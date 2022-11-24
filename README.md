@@ -1,4 +1,4 @@
-# Hey there👋, Welcome to my Github Profile
+# Hello World, welcome to my Github Profile
 ### My name is Giovane Forlenza, I am a passionate frontend developer from Brazil
 <br>
 
