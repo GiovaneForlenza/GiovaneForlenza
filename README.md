@@ -72,13 +72,13 @@
 <a href="https://github.com/GiovaneForlenza/recipe-book">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=recipe-book&theme=tokyonight" />
 </a>
-<a href="https://github.com/GiovaneForlenza/recipe-book">
+<a href="https://github.com/GiovaneForlenza/grocery-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=grocery-list&theme=tokyonight" />
 </a>
-<a href="https://github.com/GiovaneForlenza/recipe-book">
+<a href="https://github.com/GiovaneForlenza/cocktail-db">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=cocktail-db&theme=tokyonight" />
 </a>
-<a href="https://github.com/GiovaneForlenza/recipe-book">
+<a href="https://github.com/GiovaneForlenza/movie-watchlist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=movie-watchlist&theme=tokyonight" />
 </a>
 
