@@ -1,194 +1,82 @@
-<h1 align="center">Hi 👋, my name is Giovane Forlenza</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
-- 🔭 I’m currently working on [My Recipe Book](https://recepie-book.netlify.app)
-- 👨‍💻 All of my projects are available at
-[https://react-project-portfolios.netlify.app](https://react-project-portfolios.netlify.app)
-- 📫 How to reach me **giovane.franciscoforl@gmail.com** 
-- ⚡ Fun fact **I graduated from Conestoga College in Canada, with a Computer Programmer degree**
+# Hey there👋, Welcome to my Github Profile
+### My name is Giovane Forlenza, I am a passionate frontend developer from Brazil
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<!-- TABLE 1 -->
 
+<table width="100%" align="center">
+ <tr>
+    <td width="60%">
+         
+## 🧭 A little bit about me
+    
+- I'm a 23yo Web programmer
+- 
+- 🔭 I’m currently working on [My Recipe Book](https://recepie-book.netlify.app)
+- 👨‍💻 All of my projects are available on
+[my portfolio](https://react-project-portfolios.netlify.app)
+- 📫 You can reach me on my [email](giovane.franciscoforl@gmail.com)
+- ⚡ Fun fact: **I graduated from Conestoga College in Canada, with a Computer Programmer degree**
+<br>
+   </td>
+    <td>
+<p align="center">
+  <img width="500px" src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" />
+</p>     
+  </td>
+ </tr>
+</table>
 
-### 👨🏽‍💻 FrontEnd Technologies
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h3 align="left">BackEnd Technologies I know</h3>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-<h3 align="left">Other Technologies I know</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <img width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" />
-    <img width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" />
-  </kbd>
-  <p/>
-<!--
-## Technologies 
+<!-- TABLE 2 -->
+<br>
+<table width="100%" align="center">
+<tr><td>
+<p align="center"><img width="500px"                  src="https://camo.githubusercontent.com/43c26cf892630dac3a0b25a19871b27dae39f9134e2b82d0f026e8707938721f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966">
+</p></td>
   
-```mermaid
-flowchart 
-f1[HTML]
-f2[Css]
-f3[javaScpit]
-fw1((ReactJs))
-fw2((NextJs))
-fw3((Bootstrap))
-fw5((Scss))
-fw4((Redux))
-b1{NodeJs}
-b2{RestAPIs}
-b3{MySQL}
- subgraph  BackEnd
-b1
-b2
-b3
- end  
- subgraph Framworks 
-fw1
-fw2
-fw3
-fw4
-fw5
- end
-  subgraph  FrontEnd 
- f1
- f2
- f3
- end  
- f1 --o f2
- f1 --o f3
- f2 --o fw3
- f2 --o fw5
- f3 --o fw1
- f3 --o fw2
- fw1 --o fw4
- fw2 --o b1
- b1 --o b2
- ```
--->
+<td width="60%">
+         
+## <b> Skills</b>
+   
+
+### Front-End Technologies
+     
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>&nbsp;
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>&nbsp;
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>&nbsp;
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&nbsp;
+     
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+     
+### Frameworks  
+
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>&nbsp;
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>&nbsp;
+       
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+     
+### Back-End & Database
+  
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>&nbsp;
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>&nbsp;
+     
+</td>
+</tr>
+</table>
+
 
 ### My Projects ✨:
   
+<a href="https://github.com/GiovaneForlenza/recipe-book">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=recipe-book&theme=tokyonight" />
+</a>
+<a href="https://github.com/GiovaneForlenza/recipe-book">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=grocery-list&theme=tokyonight" />
+</a>
+<a href="https://github.com/GiovaneForlenza/recipe-book">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=recipe-book&theme=tokyonight" />
+</a>
 <a href="https://github.com/GiovaneForlenza/recipe-book">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=recipe-book&theme=tokyonight" />
 </a>
