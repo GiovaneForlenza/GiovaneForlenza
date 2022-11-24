@@ -10,8 +10,6 @@
          
 ## 🧭 A little bit about me
     
-- I'm a 23yo Web programmer
-- 
 - 🔭 I’m currently working on [My Recipe Book](https://recepie-book.netlify.app)
 - 👨‍💻 All of my projects are available on
 [my portfolio](https://react-project-portfolios.netlify.app)
@@ -65,9 +63,12 @@
 </tr>
 </table>
 
+<br>
 
 ### My Projects ✨:
   
+  
+
 <a href="https://github.com/GiovaneForlenza/recipe-book">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=recipe-book&theme=tokyonight" />
 </a>
@@ -75,16 +76,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=grocery-list&theme=tokyonight" />
 </a>
 <a href="https://github.com/GiovaneForlenza/recipe-book">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=recipe-book&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=cocktail-db&theme=tokyonight" />
 </a>
 <a href="https://github.com/GiovaneForlenza/recipe-book">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=recipe-book&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=movie-watchlist&theme=tokyonight" />
 </a>
 
+<br>
+<br>
 
 ## 📊 Github Stats
-
-
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
