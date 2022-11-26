@@ -78,9 +78,9 @@
 <a href="https://github.com/GiovaneForlenza/cocktail-db">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=cocktail-db&theme=tokyonight" />
 </a>
-<a href="https://github.com/GiovaneForlenza/movie-watchlist">
+<!--<a href="https://github.com/GiovaneForlenza/movie-watchlist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovaneforlenza&repo=movie-watchlist&theme=tokyonight" />
-</a>
+</a>-->
 
 <br>
 <br>
